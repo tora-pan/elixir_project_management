@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :project_management, ProjectManagement.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "tatsulok1",
   hostname: "localhost",
   database: "project_management_dev",
   show_sensitive_data_on_connection_error: true,
